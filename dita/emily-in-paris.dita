@@ -10,7 +10,8 @@
         </section>
         <section id="section_eb3_snd_ddc">
             <title>For Adults</title>
-            <p/>
+            <p><ph audience="adults">adults</ph>
+                <ph audience="children">children</ph></p>
         </section>
         <fig id="fig_y3m_b4d_ddc"/>
     </body>
