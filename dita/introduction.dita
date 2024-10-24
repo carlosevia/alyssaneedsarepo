@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="emilyinparishome">
+<topic id="beautyandthebeastintro">
     <title>Introduction</title>
     <shortdesc/>
     <body>
-        <section id="section_yfx_ymd_ddc">
+        <section id="forchildren" audience="children">
             <title>For Children</title>
             <p/>
         </section>
-        <section id="section_eb3_snd_ddc" audience="adults">
+        <section id="foradults" audience="adults">
             <title>For Adults</title>
             <p/>
         </section>
