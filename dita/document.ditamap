@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>dita map</title>
+    <title>Beauty &amp; the Beast</title>
+    <topicref href="introduction.dita"/>
+    <topicref href="parttwo.dita"/>
+    <topicref href="partthree.dita"/>
+    <topicref href="partfour.dita"/>
+    <topicref href="partfive.dita"/>
+    <topicref href="partsix.dita"/>
+    <topicref href="finale.dita"/>
 </map>
