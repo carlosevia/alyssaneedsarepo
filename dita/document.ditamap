@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Beauty &amp; the Beast</title>
+    <topicref href="index.dita"/>
     <topicref href="introduction.dita"/>
     <topicref href="parttwo.dita"/>
     <topicref href="partthree.dita"/>
