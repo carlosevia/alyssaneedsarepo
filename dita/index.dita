@@ -7,12 +7,12 @@
         imagined.</shortdesc>
     <body>
         <section id="forchildren" audience="children">
-            <title>For Children</title>
+            <title>Introduction</title>
             <p>In a land far, far away lived a warm and kindhearted girl named Belle. Little did she
                 know what her future would hold...</p>
         </section>
         <section id="foradults" audience="adults">
-            <title>For Adults</title>
+            <title>Introduction</title>
             <p/>
         </section>
         <fig id="fig_y3m_b4d_ddc"/>
