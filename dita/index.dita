@@ -2,19 +2,27 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_blr_kwd_ddc">
     <title>Beauty and the Beast</title>
-    <shortdesc>Welcome! Come along with me as I tell the story of Belle, a hidden gem, and how
-        crossing paths with a lonesome beast changed her life in a way she never would have
-        imagined.</shortdesc>
+    <shortdesc>Welcome! Come along with me as I tell a tale as old as time. It is the story of
+        Belle, a hidden gem in a small village, and how crossing paths with a lonesome beast changed
+        her life in a way she never would have imagined.</shortdesc>
     <body>
         <section id="forchildren" audience="children">
             <title>Introduction</title>
-            <p>In a land far, far away lived a warm and kindhearted girl named Belle. Little did she
-                know what her future would hold...</p>
+            <p>In a land far, far away lived a warm and kindhearted girl named Belle. She lived with
+                her dad in the quaint village of Villeneuve, where everyone knew each other. She
+                would teach children how to read, as well as help other members of the community
+                with many different things. Little did she know what her future would hold...</p>
         </section>
         <section id="foradults" audience="adults">
             <title>Introduction</title>
-            <p/>
+            <p>In a land far, far away lived a kind and pure-hearted girl named Belle. She lived
+                with her dad, Maurice, in the quaint village of Villeneuve, where everyone knew each
+                other. She would teach children how to read, as well as help other members of the
+                community with various tasks. Little did she know what her future would hold and
+                what road she would go down that would eventually lead her to finding true love.</p>
         </section>
-        <fig id="fig_y3m_b4d_ddc"/>
+        <fig id="fig_y3m_b4d_ddc">
+            <image href="indexpic.jpg" id="image_ry4_zvm_fdc"/>
+        </fig>
     </body>
 </topic>
