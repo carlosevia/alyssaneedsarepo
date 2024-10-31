@@ -2,16 +2,24 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_blr_kwd_ddc">
     <title>Part Two</title>
-    <shortdesc/>
     <body>
-        <section id="section_pyd_hyd_ddc">
-            <title>For Children</title>
-            <p/>
+        <section id="section_pyd_hyd_ddc" audience="children">
+            <title>Into the Woods</title>
+            <p>Maurice gets lost on his way to a fair and ends up coming across the castle where the
+                beast lives. The dad is made a prisoner until Belle finds him and exchanges her
+                freedom for his, trading places.</p>
         </section>
-        <section id="section_zkv_3yd_ddc">
-            <title>For Adults</title>
-            <p/>
+        <fig id="fig_ds2_xym_fdc" audience="children">
+            <image href="parttwochildrenpic.jpg" id="image_hyj_dzm_fdc"/>
+        </fig>
+        <section id="section_zkv_3yd_ddc" audience="adults">
+            <title>Into the Woods</title>
+            <p>Maurice gets lost on his way to the fair to present his latest creation and ends up
+                stumbling upon the castle of the beast. He is made a prisoner--that is, until Belle
+                exchanges her freedom for his, becoming the prisoner herself.</p>
         </section>
-        <fig id="fig_hrh_kyd_ddc"/>
+        <fig id="fig_hrh_kyd_ddc" audience="adults">
+            <image href="parttwopic.jpg" id="image_wlj_vym_fdc"/>
+        </fig>
     </body>
 </topic>
