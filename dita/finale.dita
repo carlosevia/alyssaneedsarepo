@@ -13,6 +13,9 @@
                 selves, and they all live happily ever after, with the prince and Belle finding the
                 truest form of love life can offer.</p>
         </section>
+        <fig id="fig_dfm_vhn_fdc" audience="children">
+            <image href="finalechildrenpic.jpg" id="image_ewh_yhn_fdc"/>
+        </fig>
         <section id="section_iyx_fdn_fdc" audience="adults">
             <title>A Happy Ending</title>
             <p>In the end, Belle saves the beast--not only from Gaston, but also from the curse. In
@@ -23,6 +26,8 @@
                 selves, and they all live happily ever after, with the prince and Belle finding the
                 truest form of love life can offer.</p>
         </section>
-        <p>curse breaks and happy ending</p>
+        <fig id="fig_xpk_thn_fdc" audience="adults">
+            <image href="finaleadultspic.jpg" id="image_pkz_thn_fdc"/>
+        </fig>
     </body>
 </topic>
