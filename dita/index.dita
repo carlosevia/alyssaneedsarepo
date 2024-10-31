@@ -15,7 +15,8 @@
                 He "loved" her and wanted to marry her for her looks. Little did she know what her
                 future would hold...</p>
         </section>
-        <image href="indexpic.jpg" id="image_qkf_tbr_fdc" audience="children"/>
+        <image href="indexpic.jpg" id="image_qkf_tbr_fdc" audience="children"
+            alt="Belle smiles at her father as she helps him fix something in his shop."/>
         <section id="foradults" audience="adults">
             <title>Introduction</title>
             <p>In a land far, far away lived a kind and pure-hearted girl named Belle. She lived
