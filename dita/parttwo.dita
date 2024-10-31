@@ -13,7 +13,9 @@
                 places.</p>
         </section>
         <fig id="fig_ds2_xym_fdc" audience="children">
-            <image href="parttwochildrenpic.jpg" id="image_hyj_dzm_fdc"/>
+            <image href="parttwochildrenpic.jpg" id="image_hyj_dzm_fdc"
+                alt="Belle and her father hold hands as she sees him behind bars in the beast's castle."
+            />
         </fig>
         <section id="section_zkv_3yd_ddc" audience="adults">
             <title>Into the Woods</title>
@@ -26,7 +28,9 @@
                 prisoner herself.</p>
         </section>
         <fig id="fig_hrh_kyd_ddc" audience="adults">
-            <image href="parttwopic.jpg" id="image_wlj_vym_fdc"/>
+            <image href="parttwopic.jpg" id="image_wlj_vym_fdc" scale="25"
+                alt="Belle and her father hold hands as she sees him behind bars in the beast's castle."
+            />
         </fig>
     </body>
 </topic>
