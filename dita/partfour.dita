@@ -6,20 +6,24 @@
         <section id="section_z1b_ycn_fdc" audience="children">
             <title>An Enchanted Evening</title>
             <p>Belle and the beast become close with one another, reading books from the grand
-                library and talking together. They share a romantic evening together, eating dinner
-                in a lovely dining room and then dancing in an enchanting ballroom. They both look
-                ravishing, but Belle especially looks exquisite in a beautiful yellow dress.</p>
+                library and talking together about many different things. They share a romantic
+                evening together, eating dinner in a lovely dining room and then dancing in an
+                enchanting ballroom. They both look ravishing, but Belle especially looks exquisite
+                in a beautiful yellow dress.</p>
         </section>
         <section id="section_lbm_ycn_fdc" audience="adults">
             <title>An Enchanted Evening</title>
             <p>Belle and the beast become close with one another, reading books from the grand
-                library and talking together. They share a romantic evening together, eating dinner
-                in a lovely dining room and then dancing in an enchanting ballroom. They both look
-                ravishing, but Belle especially looks exquisite in a beautiful yellow dress.</p>
+                library and talking together about many different things. They share a romantic
+                evening together, eating dinner in a lovely dining room and then dancing in an
+                enchanting ballroom. They both look ravishing, but Belle especially looks exquisite
+                in a beautiful yellow dress.</p>
         </section>
         <fig id="fig_u4k_yx1_gdc">
             <image href="partfourpic.jpg" id="image_dbj_tgg_gdc" scale="40"
                 alt="Belle stands next to stairs in ballroom."/>
+            <image href="partfourpic2.jpg" id="image_zfd_zzg_gdc" scale="30"
+                alt="Beast and Belle are dancing in the ballroom."/>
         </fig>
     </body>
 </topic>
