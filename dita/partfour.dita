@@ -17,6 +17,9 @@
                 in a lovely dining room and then dancing in an enchanting ballroom. They both look
                 ravishing, but Belle especially looks exquisite in a beautiful yellow dress.</p>
         </section>
-        <fig id="fig_u4k_yx1_gdc"/>
+        <fig id="fig_u4k_yx1_gdc">
+            <image href="partfourpic.jpg" id="image_dbj_tgg_gdc" scale="40"
+                alt="Belle stands next to stairs in ballroom."/>
+        </fig>
     </body>
 </topic>
