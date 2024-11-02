@@ -20,11 +20,9 @@
                 back up off the ground, Gaston falls to his death, finally getting what was coming
                 to him, even though it had been a long time coming. Belle, the beast, and all the
                 inhabitants of the castle are finally safe from harm.</p>
-            <fig id="fig_lsg_s2h_gdc">
-                <image href="partsixpic.jpg" id="image_ehx_y2h_gdc"
-                    alt="Gaston and village members ride on horseback and/or walk to the castle to raid it."
-                    scale="30"/>
-            </fig>
         </section>
+        <image href="partsixpic.jpg"
+            alt="Gaston and village members ride on horseback and/or walk to the castle to raid it."
+            scale="30" id="image_wwc_jfh_gdc"/>
     </body>
 </topic>
