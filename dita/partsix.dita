@@ -23,7 +23,7 @@
         </section>
         <image href="partsixpic.jpg"
             alt="Gaston and village members ride on horseback and/or walk to the castle to raid it."
-            scale="30" id="image_wwc_jfh_gdc"/>
+            id="image_wwc_jfh_gdc"/>
         <image href="partsixpic2.jpg" id="image_w1n_rfh_gdc"
             alt="Gaston and Beast fight at castle at night." scale="30" audience="adults"/>
     </body>
