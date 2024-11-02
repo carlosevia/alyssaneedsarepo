@@ -4,14 +4,27 @@
     <title>Part Six</title>
     <body>
         <section id="section_ekg_ddn_fdc" audience="children">
-            <title/>
-            <p>Gaston turns the town against the beast and they all march over and raid the castle.
-                Gaston attacks beast, injuring him badly. Gaston falls to his death, finally getting
-                what was coming to him, even though it had been a long time coming.</p>
+            <title>End of an Evil Existence</title>
+            <p>An angry Gaston turns the town against the beast, leading them to march over and
+                storm the castle. Gaston confronts the beast and attacks him, shooting and injuring
+                him badly. While attempting to get back up off the ground, Gaston falls to his
+                death, finally getting what was coming to him, even though it had been a long time
+                coming. Belle, the beast, and all the inhabitants of the castle are finally safe
+                from harm.</p>
         </section>
         <section id="section_nf5_ddn_fdc" audience="adults">
-            <title/>
-            <p/>
+            <title>End of an Evil Existence</title>
+            <p>An angry Gaston turns the town against the beast, leading them to march over and
+                storm the castle. Gaston confronts the beast and attacks him, shooting and injuring
+                him badly. But you know what they say--Karma's a b---h! So, while attempting to get
+                back up off the ground, Gaston falls to his death, finally getting what was coming
+                to him, even though it had been a long time coming. Belle, the beast, and all the
+                inhabitants of the castle are finally safe from harm.</p>
+            <fig id="fig_lsg_s2h_gdc">
+                <image href="partsixpic.jpg" id="image_ehx_y2h_gdc"
+                    alt="Gaston and village members ride on horseback and/or walk to the castle to raid it."
+                    scale="30"/>
+            </fig>
         </section>
     </body>
 </topic>
