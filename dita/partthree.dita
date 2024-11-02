@@ -4,12 +4,22 @@
     <title>Part Three</title>
     <body>
         <section id="section_tzy_mcn_fdc" audience="children">
-            <title/>
-            <p>Belle gets her own room and learns more about the castle and its hidden secrets.</p>
+            <title>Exploring her Surroundings</title>
+            <p>Belle learns about the castle and its hidden secrets. She gets her own room after she
+                finds herself in the enchanted castle and is invited to stay by the beast. She finds
+                a beautiful dress in her room to wear to dinner, of which she's been invited by the
+                beast, and falls in love with the castle and its enchanted objects.</p>
         </section>
         <section id="section_tw4_rcn_fdc" audience="adults">
-            <title/>
-            <p/>
+            <title>Exploring her Surroundings</title>
+            <p>Belle learns about the castle and its hidden secrets. She gets her own room after she
+                finds herself in the enchanted castle and is invited to stay by the beast. She finds
+                a beautiful dress in her room to wear to dinner, of which she's been invited by the
+                beast, and falls in love with the castle and its enchanted objects.</p>
         </section>
+        <fig id="fig_gxp_5w1_gdc">
+            <image href="partthreepic.jpg" id="image_h3q_bx1_gdc" scale="30"
+                alt="Belle in her room."/>
+        </fig>
     </body>
 </topic>
