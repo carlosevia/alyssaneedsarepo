@@ -38,9 +38,9 @@
                 an enchanted rose.</p>
         </section>
         <fig id="fig_hrh_kyd_ddc" audience="adults">
-            <image href="parttwopic.jpg" id="image_wlj_vym_fdc" scale="25"
+            <image href="parttwopic.jpg" id="image_wlj_vym_fdc"
                 alt="Belle and her father hold hands as she sees him behind bars in the beast's castle."
-            />
+                scale="75"/>
         </fig>
     </body>
 </topic>

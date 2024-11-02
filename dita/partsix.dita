@@ -4,7 +4,7 @@
     <title>Part Six</title>
     <body>
         <section id="section_ekg_ddn_fdc" audience="children">
-            <title>End of an Evil Existence</title>
+            <title>The End of an Evil Existence</title>
             <p>An angry Gaston turns the town against the beast, leading them to march over and
                 storm the castle. Gaston confronts the beast and attacks him, shooting and injuring
                 him badly. While attempting to get back up off the ground, Gaston falls to his
@@ -13,7 +13,7 @@
                 from harm.</p>
         </section>
         <section id="section_nf5_ddn_fdc" audience="adults">
-            <title>End of an Evil Existence</title>
+            <title>The End of an Evil Existence</title>
             <p>An angry Gaston turns the town against the beast, leading them to march over and
                 storm the castle. Gaston confronts the beast and attacks him, shooting and injuring
                 him badly. But you know what they say--Karma's a b---h! So, while attempting to get
@@ -23,8 +23,8 @@
         </section>
         <image href="partsixpic.jpg"
             alt="Gaston and village members ride on horseback and/or walk to the castle to raid it."
-            id="image_wwc_jfh_gdc"/>
+            id="image_wwc_jfh_gdc" scale="50"/>
         <image href="partsixpic2.jpg" id="image_w1n_rfh_gdc"
-            alt="Gaston and Beast fight at castle at night." scale="30" audience="adults"/>
+            alt="Gaston and Beast fight at castle at night." scale="55" audience="adults"/>
     </body>
 </topic>
